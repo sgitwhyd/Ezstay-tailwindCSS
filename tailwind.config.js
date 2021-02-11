@@ -19,6 +19,10 @@ module.exports = {
         'serif': ['Poppins']
       }
     },
+    borderWidth: {
+      DEFAULT: '1px',
+      '3': '3px'
+    }
   },
   variants: {
     extend: {},
